@@ -2,4 +2,4 @@ Managing your code with Git and GitHub
 Part 2 Activity: Share a repository on GitHub
 
 My repository URL:
-(example: https://github.com/yourusername/yourproject)
+https://github.com/paskwal/demo
