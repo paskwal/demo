@@ -1,3 +1,3 @@
 # demo
-Demo repository
-TXT file
+Demo repository for MOOC. Contains templates files.
+
